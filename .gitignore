@@ -5,3 +5,4 @@ data/
 __pycache__/
 tb_logs/
 lightning_logs/
+.ipynb_checkpoints/
